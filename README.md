@@ -4,7 +4,7 @@ Este portafolio es desarrollado para poner en practica las habilidades obtenidas
 
 Fue desarrollado con HTM, CSS y JS con el uso de framework Bootstrap utilizando animaciones de bibliotecas externas.
 
-[Proyectu en linea](https://miportafolio-maria-medina.netlify.app/)
+[Proyecto en linea](https://miportafolio-maria-medina.netlify.app/)
 
 -Capturas de pantalla
 
