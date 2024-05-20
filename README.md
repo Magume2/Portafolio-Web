@@ -10,7 +10,7 @@ Fue desarrollado con HTM, CSS y JS con el uso de framework Bootstrap utilizando 
 
 ![Seccion Yo](assets/hacerca-de-mi.png)
 ![Seccion Yo](assets/habilidades.png)
-![Seccion Yo](assets/proyectos.png)
+![Seccion Yo](assets/p.png)
 ![Seccion Yo](assets/testiminio.png)
 ![Seccion Yo](assets/contacto.png)
 -Tecnologias
